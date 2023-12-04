@@ -1,0 +1,6 @@
+number1 = input('digite o numero ')
+number2 = input('digite outro numero ')
+soma = int(number1) + int(number2)
+print(soma)
+multi = int(number1) * int(number2)
+print(multi)
